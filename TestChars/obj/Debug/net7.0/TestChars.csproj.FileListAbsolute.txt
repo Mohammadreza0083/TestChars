@@ -1,0 +1,14 @@
+D:\daneshkar boot camp\c# projects\section 7 part 2\TestChars\bin\Debug\net7.0\TestChars.exe
+D:\daneshkar boot camp\c# projects\section 7 part 2\TestChars\bin\Debug\net7.0\TestChars.deps.json
+D:\daneshkar boot camp\c# projects\section 7 part 2\TestChars\bin\Debug\net7.0\TestChars.runtimeconfig.json
+D:\daneshkar boot camp\c# projects\section 7 part 2\TestChars\bin\Debug\net7.0\TestChars.dll
+D:\daneshkar boot camp\c# projects\section 7 part 2\TestChars\bin\Debug\net7.0\TestChars.pdb
+D:\daneshkar boot camp\c# projects\section 7 part 2\TestChars\obj\Debug\net7.0\TestChars.GeneratedMSBuildEditorConfig.editorconfig
+D:\daneshkar boot camp\c# projects\section 7 part 2\TestChars\obj\Debug\net7.0\TestChars.AssemblyInfoInputs.cache
+D:\daneshkar boot camp\c# projects\section 7 part 2\TestChars\obj\Debug\net7.0\TestChars.AssemblyInfo.cs
+D:\daneshkar boot camp\c# projects\section 7 part 2\TestChars\obj\Debug\net7.0\TestChars.csproj.CoreCompileInputs.cache
+D:\daneshkar boot camp\c# projects\section 7 part 2\TestChars\obj\Debug\net7.0\TestChars.dll
+D:\daneshkar boot camp\c# projects\section 7 part 2\TestChars\obj\Debug\net7.0\refint\TestChars.dll
+D:\daneshkar boot camp\c# projects\section 7 part 2\TestChars\obj\Debug\net7.0\TestChars.pdb
+D:\daneshkar boot camp\c# projects\section 7 part 2\TestChars\obj\Debug\net7.0\TestChars.genruntimeconfig.cache
+D:\daneshkar boot camp\c# projects\section 7 part 2\TestChars\obj\Debug\net7.0\ref\TestChars.dll
